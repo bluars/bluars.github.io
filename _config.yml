@@ -2,13 +2,13 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
-first_name: You
-middle_name: R.
-last_name: Name
-email: you@example.com
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+title: BLuArs # the website title (if blank, full name will be used instead)
+first_name: Luis
+middle_name: F.
+last_name: B.
+email: info@bluars.com
+keywords: information, technology, IT, computer, networks, micro controller, automation, renewables, project, photo voltaic # add your own keywords or leave empty
+icon: favicon.ico # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://bluars.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -64,46 +64,46 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-acm_id: # your dl.acm.org/profile/id
-blogger_url: # your blogger URL
-bluesky_url: # your bluesky URL
-dblp_url: # your DBLP profile url
-discord_id: # your discord id (18-digit unique numerical identifier)
-facebook_id: # your facebook id
-flickr_id: # your flickr id
-github_username: # your GitHub user name
-gitlab_username: # your GitLab user name
-ieee_id: # your ieeexplore.ieee.org/author/id
-inspirehep_id: 1010907 # Inspire HEP author ID
-instagram_id: # your instagram id
-kaggle_id: # your kaggle id
-keybase_username: # your keybase user name
-lastfm_id: # your lastfm id
-lattes_id: # your ID on Lattes (Brazilian Lattes CV)
-linkedin_username: # your LinkedIn user name
-mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-medium_username: # your Medium username
-orcid_id: # your ORCID ID
-osf_id: # your OSF ID
-pinterest_id: # your pinterest id
-publons_id: # your ID on Publons
-quora_username: # your Quora username
-research_gate_profile: # your profile on ResearchGate
-scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
-scopus_id: # your profile on Scopus
-semanticscholar_id: # your Semantic Scholar ID
-spotify_id: # your spotify id
-stackoverflow_id: # your stackoverflow id
-telegram_username: # your Telegram user name
-unsplash_id: # your unsplash id
-wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
-whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-wikidata_id: # your wikidata id
-wikipedia_id: # your wikipedia id (Case sensitive)
-work_url: # work page URL
-x_username: # your X handle
-youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
-zotero_username: # your zotero username
+# acm_id: # your dl.acm.org/profile/id
+# blogger_url: # your blogger URL
+# bluesky_url: # your bluesky URL
+# dblp_url: # your DBLP profile url
+# discord_id: # your discord id (18-digit unique numerical identifier)
+# facebook_id: # your facebook id
+# flickr_id: # your flickr id
+# github_username: # your GitHub user name
+# gitlab_username: # your GitLab user name
+# ieee_id: # your ieeexplore.ieee.org/author/id
+# inspirehep_id: 1010907 # Inspire HEP author ID
+# instagram_id: # your instagram id
+# kaggle_id: # your kaggle id
+# keybase_username: # your keybase user name
+# lastfm_id: # your lastfm id
+# lattes_id: # your ID on Lattes (Brazilian Lattes CV)
+linkedin_username: luismfbarreto # your LinkedIn user name
+# mastodon_username: # your mastodon instance+username in the format instance.tld/@username
+# medium_username: # your Medium username
+# orcid_id: # your ORCID ID
+# osf_id: # your OSF ID
+# pinterest_id: # your pinterest id
+# publons_id: # your ID on Publons
+# quora_username: # your Quora username
+# research_gate_profile: # your profile on ResearchGate
+# scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
+# scopus_id: # your profile on Scopus
+# semanticscholar_id: # your Semantic Scholar ID
+# spotify_id: # your spotify id
+# stackoverflow_id: # your stackoverflow id
+# telegram_username: # your Telegram user name
+# unsplash_id: # your unsplash id
+# wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
+# whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
+# wikidata_id: # your wikidata id
+# wikipedia_id: # your wikipedia id (Case sensitive)
+# work_url: # work page URL
+# x_username: # your X handle
+# youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
+# zotero_username: # your zotero username
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -111,7 +111,7 @@ zotero_username: # your zotero username
 
 # For Google Analytics, see https://support.google.com/analytics/answer/10447272?hl=en&ref_topic=14088998&sjid=5129943941510317771-SA#zippy=%2Cgoogle-sites
 # and follow the instructions for Google Sites. You will need to create a Google Analytics property and copy the Google tag ID.
-google_analytics: # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
+google_analytics: G-7KY7BLRYGK # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
 cronitor_analytics: # cronitor RUM analytics site ID (format: XXXXXXXXX)
 pirsch_analytics: # your Pirsch analytics site ID (length 32 characters)
 
@@ -386,7 +386,7 @@ external_links:
 # Jekyll Polyglot
 # -----------------------------------------------------------------------------
 
-languages: ["en-us", "pt-br"]
+languages: ["en-us", "pt-pt"]
 default_lang: "en-us"
 exclude_from_localization: ["assets"]
 lang_from_path: true
@@ -637,8 +637,8 @@ third_party_libraries:
 jekyll_get_json:
   - data: resume_en-us
     json: assets/json/resume_en-us.json # it can also be an url
-  - data: resume_pt-br
-    json: assets/json/resume_pt-br.json # it can also be an url
+  - data: resume_pt-pt
+    json: assets/json/resume_pt-pt.json # it can also be an url
 jsonresume:
   - basics
   - work
