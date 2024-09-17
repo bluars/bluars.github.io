@@ -20,8 +20,14 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I started playing computer games on the ZX Spectrum in the middle of the '80s and did my first computer course leraning MS-DOS at Infor Jovem programme (...), at the beggining of my teenage.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/multi-language-al-folio/publications/) automatically.
+I work in IT for more than two decades, mainly in Systems, Networking, Infraestructures and Operations.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I collaborate with students, professionals and companies of all sizes and sectors, from individual entrepreneurs to multinationals with hundreds of thousands of employees.
+
+I like to be useful and help in the areas in which I work or am interested, sharing ideas, experiences or projects.
+
+In this space, I record what I don't want to lose due to time passing or (lack of) memory.
+
+Use the connections below for contact.

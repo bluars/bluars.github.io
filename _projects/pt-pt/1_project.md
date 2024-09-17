@@ -1,21 +1,21 @@
 ---
 page_id: project_1
 layout: page
-title: Solar 
-description: Photovoltaic surplus energy storage (even for small installations) 
+title: Gestor de axcedente fotovoltaico
+description: Armazenar energia solar que, de outra forma seria enviada para a rede elétrica
 img: assets/img/12.jpg
 importance: 1
 category: solar
 related_publications: true
 ---
 
-Conceptually, this project started when I began to think in putting into practice the installation of photovoltaic panels at home.
+Em termos de conceito, este projeto nasceu na altura em que comecei a pensar por em prática a instalação de painéis fotovoltaicos em casa.
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Cada projeto tem uma bela página de apresentação de recursos.
+É fácil incluir imagens em um formato flexível de grade de 3 colunas.
+Faça suas fotos 1/3, 2/3 ou largura total.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Para dar um plano de fundo ao seu projeto na página do portfólio, basta adicionar a tag img ao front Matter assim:
 
     ---
     layout: page
