@@ -6,13 +6,13 @@
     - name: Data de Nascimento
       value: 14 de março de 1879
     - name: Idiomas
-      value: Português, Inglês
+      value: Inglês, Alemão
 
 - title: Educação
   type: time_table
   contents:
-    - title: BsC CS
-      institution: Instituto Politécnico do Cávado e do Ave
+    - title: PhD
+      institution: University of Zurich, Zurique, Suíça
       year: 1976
       description:
         - Descrição 1.
