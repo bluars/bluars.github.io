@@ -1,8 +1,8 @@
 ---
 page_id: project_1
 layout: page
-title: Solar 
-description: Photovoltaic surplus energy storage (even for small installations) 
+title: Solar surplus diverter 
+description: Store photovoltaic surplus energy that would otherwise be delivered to the grid (possibly for free) 
 img: assets/img/12.jpg
 importance: 1
 category: solar
