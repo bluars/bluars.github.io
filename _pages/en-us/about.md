@@ -4,7 +4,7 @@ layout: about
 title: about
 permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
-subtitle: <b><i> nascemos para aprender e morremos sem saber... </i></0b>
+subtitle: <b><i> we born to learn and die without knowing...</i></b>
 
 profile:
   align: right
