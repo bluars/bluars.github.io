@@ -13,7 +13,7 @@ profile:
   more_info: >
     <p>hybrid workplace, </p>
     <p><i>on every street, </i></p>
-    <p>mostly in Portugal</p>
+    <p>maioritariamente em Portugal</p>
 
 news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts

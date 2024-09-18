@@ -4,7 +4,7 @@ layout: default
 permalink: /blog/
 title: blog
 blog_name: BLuArs em português
-description: um weblog simples para guardar memórias voláteis, maioritariamente...
+description: um weblog simples para guardar memórias voláteis, essencialmente...
 nav: true
 nav_order: 1
 pagination:
