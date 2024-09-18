@@ -6,7 +6,7 @@ title: BLuArs # the website title (if blank, full name will be used instead)
 first_name: Luis
 middle_name: F.
 last_name: B.
-email: ' <info ' at ' bluars.com> '
+email: <info> at <bluars.com>
 keywords: information, technology, IT, computer, networks, micro controller, automation, renewables, project, photo voltaic # add your own keywords or leave empty
 icon: favicon.ico # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
