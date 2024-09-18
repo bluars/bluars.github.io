@@ -1,8 +1,8 @@
 ---
 page_id: project_1
 layout: page
-title: Gestor de axcedente fotovoltaico
-description: Armazenar energia solar que, de outra forma seria enviada para a rede elétrica
+title: Gestor de axcedentes solares
+description: Armazenar energia solar que, de outra forma seria enviada para a rede elétrica (talvez) gratuitamente.
 img: assets/img/12.jpg
 importance: 1
 category: solar
