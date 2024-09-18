@@ -2,7 +2,7 @@
 page_id: teaching
 layout: page
 permalink: /teaching/
-title: Ensino
+title: Formação
 description: Materiais de cursos ministrados.
 nav: true
 nav_order: 6
