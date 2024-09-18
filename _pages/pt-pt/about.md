@@ -11,9 +11,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>... hybrid workplace, </p>
-    <p>... on every street, </p>
-    <p>... mostly in Portugal</p>
+    <p>hybrid workplace, </p>
+    <p><i>on every street, </i></p>
+    <p>mostly in Portugal</p>
 
 news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts

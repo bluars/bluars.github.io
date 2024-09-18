@@ -3,8 +3,8 @@ page_id: blog
 layout: default
 permalink: /blog/
 title: blog
-blog_name: al-folio in english
-description: a simple whitespace theme for academics
+blog_name: BLuArs in english
+description: a simple weblog to backup volatile memories, mostly...
 nav: true
 nav_order: 1
 pagination:

@@ -3,8 +3,8 @@ page_id: blog
 layout: default
 permalink: /blog/
 title: blog
-blog_name: al-folio em português de portugal
-description: a simple weblog to backup volatile memories, mostly
+blog_name: BLuArs em português
+description: um weblog simples para guardar memórias voláteis, maioritariamente...
 nav: true
 nav_order: 1
 pagination:
