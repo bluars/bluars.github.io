@@ -1,5 +1,5 @@
 ---
-# id: dropdown
+id: dropdown
 layout: page
 title: dropdown
 nav: false
