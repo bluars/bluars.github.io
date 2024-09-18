@@ -233,6 +233,7 @@ exclude:
   - package-lock.json
   - _pages/en-us/about_einstein.md
   - _pages/pt-br/about_einstein.md
+  - _pages/pt-pt/about_einstein.md
   - purgecss.config.js
   - README.md
   - readme_preview/
@@ -386,7 +387,7 @@ external_links:
 # Jekyll Polyglot
 # -----------------------------------------------------------------------------
 
-languages: ["en-us", "pt-pt"]
+languages: ["en-us", "pt-PT"]
 default_lang: "en-us"
 exclude_from_localization: ["assets"]
 lang_from_path: true
