@@ -31,4 +31,4 @@ Gosto de ser útil e ajudar nas áreas em que trabalha ou tenho interesse, parti
 
 Neste espaço, registo o que não quero que o tempo ou a memória possam perder.
 
-Usa as ligações no rodapé para contacto.
+Use as ligações abaixo para contacto.
