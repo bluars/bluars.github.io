@@ -1,6 +1,6 @@
 ---
 layout: post
-title: understanding networking <i>best effort</i>
+title: understanding best effort in networking
 date: 2015-03-15 23:30:00
 description: why can't we expect to allways have full bandwithd transfer speeds
 tags: network performance best effort
