@@ -7,9 +7,12 @@ tags: network performance best effort
 categories: networking sample-posts
 ---
 
+IP networks are often referred as best effort networks. This refers to the approach to service quality where the network itself does not actively differentiate in its treatment of services that transit the network. In a best effort IP network all IP packets are treated in the same fashion. The network undertakes its "best effort" to deliver every packet as quickly as it can, but makes no undertaking to treat any class of packets preferentially to any other. While this sounds like a perfectly impartial and fair approach, it is often said of Internet networks that, for certain applications, "best effort" simply isn't good enough. It is claimed that what IP networks need is some way to provide a superior response to support certain classes of applications in some special manner. "Better than best effort" is one way of describing this form of quality of service.
+
+Its not clear that this fits comfortably within the overall architecture of IP, so lets look at this claim in a bit more detail, to see whether best effort is good enough or not.
 
 Below this line is just sample text and should not be considered.
-
+____________________________________________________________________________________________________
 
 Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. [Pinterest](https://www.pinterest.com) DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
 
