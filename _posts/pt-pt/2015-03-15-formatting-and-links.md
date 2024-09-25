@@ -1,10 +1,10 @@
 ---
 layout: post
-title: understanding <i>best effort</i> in networking
+title: rede <i>melhor esforço</i>
 date: 2015-03-15 23:30:00
-description: why can't we expect to allways have full bandwithd transfer speeds
-tags: network performance best effort
-categories: networking sample-posts
+description: não espperes ter sempre toda a largura de banda nas ligações de rede
+tags: o tráfego de base é transferido na base do melhor esforço
+categories: network
 featured: true
 ---
 
