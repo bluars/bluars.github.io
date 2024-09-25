@@ -5,6 +5,7 @@ date: 2015-03-15 23:30:00
 description: why can't we expect to allways have full bandwithd transfer speeds
 tags: network performance best effort
 categories: networking sample-posts
+featured: false
 ---
 
 IP networks are often referred as best effort networks. This refers to the approach to service quality where the network itself does not actively differentiate in its treatment of services that transit the network. In a best effort IP network all IP packets are treated in the same fashion. The network undertakes its "best effort" to deliver every packet as quickly as it can, but makes no undertaking to treat any class of packets preferentially to any other. While this sounds like a perfectly impartial and fair approach, it is often said of Internet networks that, for certain applications, "best effort" simply isn't good enough. It is claimed that what IP networks need is some way to provide a superior response to support certain classes of applications in some special manner. "Better than best effort" is one way of describing this form of quality of service.
