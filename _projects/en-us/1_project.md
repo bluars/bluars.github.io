@@ -1,15 +1,36 @@
 ---
 page_id: project_1
 layout: page
-title: Solar surplus diverter 
-description: Store photovoltaic surplus energy that would otherwise be delivered to the grid (possibly for free) 
-img: assets/img/12.jpg
+title: Solar surplus manager / diverter 
+description: Manage surplus solar photovoltaic energy storing it into electric boiler 
+img: assets/img/project_01/ccost_envi_01.jpg
 importance: 1
 category: solar
 related_publications: true
 ---
 
 Conceptually, this project started when I began to think in putting into practice the installation of photovoltaic panels at home.
+
+TL; DR
+
+I am enthusicastic with seeing the things that are usually not seen in plain sight, get numbers to compare aples with aples, systems monitorization and so on...
+
+I started monitoring energy consumption at home since around 2011 with a CurrentCost Envi coupled with a Bridge that allowed the device to connect to the internet and get the data online for visualization.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/project_01/ccost_envi_01.jpg" title="current cost envi from around 2011" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+
+{% comment %}
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
@@ -82,3 +103,5 @@ Here's the code for the last row of images above:
 ```
 
 {% endraw %}
+
+{% endcomment %}

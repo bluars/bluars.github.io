@@ -2,14 +2,19 @@
 page_id: project_1
 layout: page
 title: Gestor de axcedentes solares
-description: Armazenar energia solar que, de outra forma seria enviada para a rede elétrica (talvez) gratuitamente.
-img: assets/img/12.jpg
+description: Armazenar energia solar excedente, convertendo-a em água quente num termoacumulador
+img: assets/img/project_01/ccost_envi_01.jpg
 importance: 1
 category: solar
 related_publications: true
 ---
 
+ que, de outra forma seria enviada para a rede elétrica (talvez) gratuitamente.
+
 Em termos de conceito, este projeto nasceu na altura em que comecei a pensar por em prática a instalação de painéis fotovoltaicos em casa.
+
+
+{% comment %}
 
 Cada projeto tem uma bela página de apresentação de recursos.
 É fácil incluir imagens em um formato flexível de grade de 3 colunas.
@@ -26,7 +31,7 @@ Para dar um plano de fundo ao seu projeto na página do portfólio, basta adicio
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/project_01/ccost_envi_01.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -82,3 +87,5 @@ Here's the code for the last row of images above:
 ```
 
 {% endraw %}
+
+{% endcomment %}
